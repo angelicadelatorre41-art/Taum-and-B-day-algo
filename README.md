@@ -1,1 +1,1 @@
-# Taum-and-B-day-algo
+# Taum-and-B-day-algo The function calculates the minimum cost of black and white gifts by checking whether it’s cheaper to buy them directly or convert from the other color using z. It then multiplies each by the number of gifts and returns the total cost.
